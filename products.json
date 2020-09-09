@@ -1,0 +1,44 @@
+[
+  {
+    "category": "cat1",
+    "id": "id1",
+    "name": "Product A",
+    "price": 10,
+    "amount": 2
+  },
+  {
+    "category": "cat1",
+    "id": "id2",
+    "name": "Product B",
+    "price": 15,
+    "amount": 4
+  },
+  {
+    "category": "cat2",
+    "id": "id4",
+    "name": "Product C",
+    "price": 5,
+    "amount": 4
+  },
+  {
+    "category": "cat2",
+    "id": "id3",
+    "name": "Product D",
+    "price": 8,
+    "amount": 5
+  },
+  {
+    "category": "cat3",
+    "id": "id5",
+    "name": "Product E",
+    "price": 10,
+    "amount": 2
+  },
+  {
+    "category": "cat1",
+    "id": "id6",
+    "name": "Product F",
+    "price": 5,
+    "amount": 2
+  }
+]
